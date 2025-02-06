@@ -10,6 +10,6 @@
 ## Projeto Android
  Site sobre a história do Sistema Android e seus mascotes
 
-### <a href="https://pedropimpao.github.io/Projetos-Curso-em-Video/projeto-android/">Acesso
+### Acesso
  https://pedropimpao.github.io/Projetos-Curso-em-Video/projeto-android/
 
